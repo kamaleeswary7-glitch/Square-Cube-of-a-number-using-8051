@@ -28,7 +28,7 @@ To write and execute an Assembly language program for finding the square of a gi
 ```
 
 ## OUTPUT
-
+ 
 
 ## RESULT
 Thus, the square of the given data is calculated using 8051 Keil.
